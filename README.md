@@ -22,13 +22,10 @@
 
 <p align="left"><img src="https://leetcard.jacoblin.cool/Uttam_Rai?ext=heatmap" alt="LeetCode Heatmap" /></p>
 
-<img align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=Uttam_Rai&animated=true" alt="LeetCode Badges" />
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- Add your tools here -->
+  <a href="https://github.com/uttam-rai/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=uttam-rai&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam-rai&show_icons=true&locale=en&layout=compact" alt="uttam-rai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-rai&" alt="uttam-rai" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uttam-rai&theme=dark)](https://git.io/streak-stats)
