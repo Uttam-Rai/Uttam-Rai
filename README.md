@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam-rai&show_icons=true&locale=en&layout=compact" alt="uttam-rai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttam-rai&show_icons=true&locale=en" alt="uttam-rai" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-rai&" alt="uttam-rai" /></p>
