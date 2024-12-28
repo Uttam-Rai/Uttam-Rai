@@ -22,10 +22,7 @@
 
 <p align="left"><img src="https://leetcard.jacoblin.cool/Uttam_Rai?ext=heatmap" alt="LeetCode Heatmap" /></p>
 
-<p align="left">
-  <a href="https://github.com/uttam-rai/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=uttam-rai&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark"/>
-  </a>
-</p>
-
+<p align="right">
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uttam-rai&theme=dark)](https://git.io/streak-stats)
+</p>
