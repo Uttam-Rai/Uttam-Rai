@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 💬 Ask me about **MERN, AI & ML**
 - 📫 How to reach me: **uttamraiu41@gmail.com**
-- 📄 Know about my experiences: [Link to Portfolio](https://uttam-rai.tiiny.site/)
+- 📄 Resume (https://uttam-rai.site/)
 - ⚡ Fun fact: **I think I am funny**
 
 ---
