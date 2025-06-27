@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uttam Rai</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hello+I'm+Uttam+Rai" alt="Typing SVG" />
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -9,15 +9,15 @@
 
 
 - 🌱 I’m currently learning **FullStack, Deep Learning**  
-- 👯 I’m looking to collaborate on **Machine Learning Projects**  
-- 💬 Ask me about **MERN, AI & ML**  
-- 📫 How to reach me: **uttamraiu41@gmail.com**  
+- 📫 How to reach me: **uttamrai060@gmail.com**  
 - 📄 [My Resume](https://uttam-rai.site/)  
 - ⚡ Fun fact: **I think I am funny**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
+
+
 
 <p align="left">
   <a href="https://linkedin.com/in/uttam-rai" target="_blank">
@@ -54,4 +54,12 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=UttamRai&theme=radical" />
+       </td>
+    
+ </td>
+  </tr>
+</table>
