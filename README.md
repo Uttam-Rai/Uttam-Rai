@@ -40,6 +40,5 @@
 </p>
 
 
-
-![snake gif](https://github.com/Uttam-Rai/Uttam-Rai/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Uttam-Rai/Uttam-Rai/blob/output/github-snake-dark.svg)
 
