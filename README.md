@@ -38,7 +38,6 @@
   </a>
 </p>
 
----
 
 ### 🐍 GitHub Activity Snake
 ![snake gif](https://github.com/Uttam-Rai/Uttam-Rai/blob/output/github-snake-dark.svg)
