@@ -42,24 +42,4 @@
 ### 🐍 GitHub Activity Snake
 ![snake gif](https://github.com/Uttam-Rai/Uttam-Rai/blob/output/github-snake-dark.svg)
 
-### 📊 My LeetCode Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/Uttam_Rai?ext=contest" alt="Leetcode Contest Stats" />
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/Uttam_Rai?ext=heatmap" alt="Leetcode Heatmap" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=UttamRai&theme=radical" />
-       </td>
-    
- </td>
-  </tr>
-</table>
